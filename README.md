@@ -51,6 +51,8 @@
   </div>
   
   <!-- Skills: Database -->
+  <div style="flex-basis: 48%;">
+  <h3Database</h3>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -65,8 +67,3 @@
 
   ###
 
-  <br clear="both">
-
-  <img src="https://raw.githubusercontent.com/lucasccunha/lucasccunha/output/snake.svg" alt="Snake animation" />
-
-  ###
