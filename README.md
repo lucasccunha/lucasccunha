@@ -16,6 +16,8 @@
 </div>
 
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/lucasccunha/lucasccunha/output/snake.svg" alt="Snake animation" />
 
 <!-- Links -->
