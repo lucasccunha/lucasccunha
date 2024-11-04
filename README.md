@@ -26,7 +26,6 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Api-Cidades-Inteligentes](https://github.com/lucasccunha/Api-Cidades-Inteligentes)
-- [Backend_locaweb](https://github.com/lucasccunha/backend_locaweb)
 - [Projeto-Java-com-Spring-Boot](https://github.com/lucasccunha/Projeto-Java-com-Spring-Boot)
 - [Test-BDD](https://github.com/lucasccunha/TEST-BDD)
 - [Api-Medicos](https://github.com/lucasccunha/Api-Medicos)
