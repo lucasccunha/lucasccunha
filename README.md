@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  👋 Oi, eu sou Lucas! Um apaixonado estudante de Análise e Desenvolvimento de Sistemas.
+  👋 Oi, eu sou Lucas! Um apaixonado formado em Análise e Desenvolvimento de Sistemas.
 
 </p>
 
